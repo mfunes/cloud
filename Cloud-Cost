@@ -1,8 +1,63 @@
-# INFORME CLOUD-COST
+INFORME CLOUD-COST
 
-Proveedores:
+Proveedor: Google
+Máquinas: 15
+Tipo: n1-standard-2
+CPUs: 2
+RAM: 7.5
+SSD: 375GB
+Precio medio de la hora con descuentos: 0.097$/h
+Precio total/mes: 2265,23$
 
-* Google
-* Amazon
-* Telecom Luxemburgo
+
+Proveedor: Amazon (Frankfurt)
+Máquinas: 15
+Tipo: m3.large
+CPUs: 2
+RAM: 7.5
+SSD: 32GB
+Precio/hora: 0.166$/h
+Precio total/mes: 1673,28$
+
+
+Proveedor: Amazon (Irlanda)
+Máquinas: 15
+Tipo: m3.large
+CPUs: 2
+RAM: 7.5
+SSD: 32GB
+Precio/hora: 0.154$/h
+Precio total/mes: 1552,32$
+
+
+Proveedor: Windows Azure (Máquinas Linux)
+Máquinas: 15
+Tipo: D2 
+CPUs: 2
+RAM: 37
+SSD: 100GB
+Precio/hora: 1,899€/h
+Precio total/mes: 1412,85€
+
+
+Proveedor: Windows Azure (Máquinas Windows)
+Máquinas: 15
+Tipo: D2 
+CPUs: 2
+RAM: 7
+SSD: 100GB
+Precio/hora: 3,553€/h
+Precio total/mes: 2642,86€
+
+
+Proveedor: Rackspace (Managed Infraestructure)
+Máquinas: 15
+Tipo: Compute1-8 
+CPUs: 4
+RAM: 7.5
+SSD: ----
+Precio/hora: 0,198$/h
+Precio total/mes: 2012,70$
+
+
 
