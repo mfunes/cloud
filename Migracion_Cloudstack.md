@@ -11,7 +11,7 @@ Además hay que migrar también herramientas de BBDD y aplicaciones de intranet 
 
   1 tarjeta de red de perfil bajo para la máquina router (Nueva red 192.168.8.0/24)
 
-  1 switch pequeño de cuatro/cinco puertos para la interconexión de los tres nuevos servidores
+  1 switch pequeño de cuatro/cinco puertos para la interconexión de los tres nuevos servidores y el router
   
 * Organización de la migración
 ------------------------------
