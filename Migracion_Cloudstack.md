@@ -14,7 +14,6 @@ Además hay que migrar también herramientas de BBDD y aplicaciones de intranet 
   1 switch pequeño de cuatro/cinco puertos para la interconexión de los tres nuevos servidores y el router
   
 * Organización de la migración
-------------------------------
 
   VM -> Servidor de correo y usuarios (Hay que saber si es Sendmail, Postfix u otro)
 
